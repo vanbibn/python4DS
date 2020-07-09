@@ -1,0 +1,11 @@
+Day,Weather,Temperature,Humidity,Wind,Play
+1,Sunny,Hot,90,10,No
+2,Cloudy,Hot,95,5,Yes
+3,Sunny,Mild,70,30,Yes
+4,Cloudy,Mild,89,25,Yes
+5,Rainy,Mild,85,25,No
+6,Rainy,Cool,60,30,No
+7,Rainy,Mild,92,20,Yes
+8,Sunny,Hot,95,20,No
+9,Cloudy,Hot,65,12,Yes
+10,Rainy,Mild,100,25,No
